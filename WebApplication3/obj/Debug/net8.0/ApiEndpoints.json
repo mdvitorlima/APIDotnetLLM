@@ -1,0 +1,23 @@
+[
+  {
+    "ContainingType": "WebApplication3.Controllers.LLMController",
+    "Method": "Get",
+    "RelativePath": "LLM",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Microsoft.Extensions.AI.ChatResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetRequestLLM"
+  }
+]
