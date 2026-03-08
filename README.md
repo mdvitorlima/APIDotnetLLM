@@ -7,3 +7,5 @@ Links
 https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview/?hide_banner=true
 
 https://github.com/dotnet/ai-samples/tree/main
+
+https://www.youtube.com/watch?v=XZYzW3z-C1w
